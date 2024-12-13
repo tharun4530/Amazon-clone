@@ -1,0 +1,13 @@
+# Node.js
+/UI/node_modules/
+
+# Java
+/Backend/target
+*.class
+
+#Misc
+.DS_Store
+*.log
+*.idea/
+*.iml
+*.out
